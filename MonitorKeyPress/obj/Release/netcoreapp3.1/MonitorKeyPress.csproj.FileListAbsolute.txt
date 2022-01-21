@@ -1,0 +1,13 @@
+C:\src\MonitorKeyPress\MonitorKeyPress\bin\Release\netcoreapp3.1\MonitorKeyPress.exe
+C:\src\MonitorKeyPress\MonitorKeyPress\bin\Release\netcoreapp3.1\MonitorKeyPress.deps.json
+C:\src\MonitorKeyPress\MonitorKeyPress\bin\Release\netcoreapp3.1\MonitorKeyPress.runtimeconfig.json
+C:\src\MonitorKeyPress\MonitorKeyPress\bin\Release\netcoreapp3.1\MonitorKeyPress.runtimeconfig.dev.json
+C:\src\MonitorKeyPress\MonitorKeyPress\bin\Release\netcoreapp3.1\MonitorKeyPress.dll
+C:\src\MonitorKeyPress\MonitorKeyPress\bin\Release\netcoreapp3.1\MonitorKeyPress.pdb
+C:\src\MonitorKeyPress\MonitorKeyPress\obj\Release\netcoreapp3.1\MonitorKeyPress.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\MonitorKeyPress\MonitorKeyPress\obj\Release\netcoreapp3.1\MonitorKeyPress.AssemblyInfoInputs.cache
+C:\src\MonitorKeyPress\MonitorKeyPress\obj\Release\netcoreapp3.1\MonitorKeyPress.AssemblyInfo.cs
+C:\src\MonitorKeyPress\MonitorKeyPress\obj\Release\netcoreapp3.1\MonitorKeyPress.csproj.CoreCompileInputs.cache
+C:\src\MonitorKeyPress\MonitorKeyPress\obj\Release\netcoreapp3.1\MonitorKeyPress.dll
+C:\src\MonitorKeyPress\MonitorKeyPress\obj\Release\netcoreapp3.1\MonitorKeyPress.pdb
+C:\src\MonitorKeyPress\MonitorKeyPress\obj\Release\netcoreapp3.1\MonitorKeyPress.genruntimeconfig.cache
